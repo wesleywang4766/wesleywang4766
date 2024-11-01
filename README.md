@@ -12,15 +12,17 @@
 
 ### 💡 Skills & Interests
 
-#### 🔧 Languages & Frameworks
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-323330.svg?&style=flat&logo=eclipse&logoColor=white)
-![Primefaces](https://img.shields.io/badge/PRIMEFACES-039BE5.svg?&style=flat&logoColor=white)
+#### 🔧 Frameworks & Libraries
+![React](https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000.svg?&style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20.svg?&style=flat&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)  
-**Frontend Development:** Skilled in JavaScript, TypeScript, and frameworks like Angular and Primefaces to create responsive, user-friendly interfaces.  
-**Backend Development:** Experienced with Java, Spring, and Hibernate for building robust, scalable back-end systems.
+**Frontend Development:** Proficient in JavaScript, TypeScript, and frameworks like Angular, React, Next.js, and styling with Tailwind CSS to build responsive, user-friendly interfaces. 
+**Backend Development:** Experienced in Java, Spring, Hibernate, NestJS, and Django for developing robust, scalable back-end systems and APIs.
 
 #### 📱 Mobile & Cross-Platform Development
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)
