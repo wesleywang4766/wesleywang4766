@@ -2,11 +2,9 @@
 
 ## 👾 About Me
 
-💻 **Senior Staff Engineer** at [Fortunes Tech](https://www.fortunes.tech/)  
 🌱 **Curious Innovator:** Constantly exploring new technologies and improvements in software architecture, development, and system reliability.  
 🛠️ **Passionate Problem Solver:** Thrives on solving complex problems and automating processes to optimize daily routines.  
 👨‍💻 **Coding since 2010:** With 14+ years in full-stack development, specializing in web and mobile solutions.  
-🌎 **Based in Chicago, IL**  
 
 ---
 
@@ -65,11 +63,4 @@ Experienced with relational databases like PostgreSQL and MySQL, as well as NoSQ
 ---
 
 ### 📫 Let’s Connect
-I’m always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out via [LinkedIn](https://linkedin.com/in/wesley-wang-dev/) or drop me an email at wesleywang4766@gmail.com!
-
 ✨ _“Technology is best when it brings people together.”_ ✨
-
-<p align="center">
-  <a href="mailto:wesleywang4766@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/wesley-wang-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
