@@ -23,14 +23,6 @@
 **Frontend:** React, Angular, Next.js, Tailwind CSS, TypeScript, JavaScript  
 **Backend:** Django, NestJS, Spring, Hibernate, Node.js, APIs, Microservices  
 
-#### 📱 Mobile & Cross-Platform
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)  
-![GetX](https://img.shields.io/badge/GETX-%23121011.svg?&style=flat&logo=getx&logoColor=white)  
-![BLoC](https://img.shields.io/badge/BLOC-%23121011.svg?&style=flat&logo=bloc&logoColor=white)  
-![MobX](https://img.shields.io/badge/MOBX-%23121011.svg?&style=flat&logo=mobx&logoColor=white)  
-
-Flutter & Dart for high-performance mobile apps with state management using GetX, BLoC, and MobX.
-
 #### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white)
