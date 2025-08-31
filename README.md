@@ -1,5 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
-
 ## 👾 About Me
 
 🌱 **Digital Experience Architect:** I design and build frontend, mobile apps, and games that turn complex ideas into smooth, intuitive digital experiences for real people.  
