@@ -6,55 +6,63 @@
 
 ---
 
-### 💡 Skills & Interests
-
-#### 🔧 Frameworks & Libraries
-![React](https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/REACT%20NATIVE-61DAFB.svg?&style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000.svg?&style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)
-![Unity](https://img.shields.io/badge/UNITY-000000.svg?&style=flat&logo=unity&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/SHADCN/UI-000000.svg?&style=flat)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933.svg?&style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/DJANGO-092E20.svg?&style=flat&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESS-000000.svg?&style=flat&logo=express&logoColor=white)
-
-**Frontend:** React, Angular, React Native, Next.js, Vue.js, Tailwind CSS, shadcn/ui, TypeScript, JavaScript  
-**Backend:** Node.js, Express, GraphQL, AWS, APIs, Microservices  
-**Mobile/Game:** Unity, ARKit, Swift, Kotlin
-
-#### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD%20PLATFORM-4285F4.svg?&style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/AZURE-0078D4.svg?&style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)
-
-Deployment and scalable solutions using AWS, GCP, Azure, Docker, Kubernetes, Ansible, and CI/CD pipelines.
-
-#### 📊 Databases
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
-
-Experience with relational and NoSQL databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite.
 
 ---
 
-### 🔍 Fun Facts
-- 📖 Lifelong learner, always exploring new tech trends  
-- 🎨 Enjoys drawing and creative projects outside of work  
-- ⚾ Plays baseball and spends time outdoors  
+## 🦄 My Tech Superpowers (a.k.a. "What I bring to the digital party")
+
+| 🖥️ Frontend Wizardry | 🧙 Backend Sorcery | 📱 Mobile/Game Magic | ☁️ Cloud/DevOps | 🗄️ Database Taming |
+|:---------------------:|:-----------------:|:-------------------:|:---------------:|:-------------------:|
+| React, Angular, Vue, Next.js, Tailwind, shadcn/ui, TypeScript, JavaScript | Node.js, Express, GraphQL, NestJS, Django, Spring, APIs, Microservices | React Native, Unity, ARKit, Swift, Kotlin | AWS, GCP, Azure, Docker, Kubernetes, Ansible, CI/CD | PostgreSQL, MySQL, MongoDB, Redis, SQLite |
 
 ---
 
-### 📫 Let’s Connect
-✨ _“Technology is best when it brings people together.”_ ✨
+### 🤹‍♂️ Tech Stack Pokémon Cards
+
+**Frontend**:  
+`[React]` `[Angular]` `[Vue.js]` `[Next.js]` `[Tailwind CSS]` `[shadcn/ui]` `[TypeScript]` `[JavaScript]`  
+
+**Backend**:  
+`[Node.js]` `[Express]` `[GraphQL]` `[NestJS]` `[Django]` `[Spring]` `[APIs]` `[Microservices]`  
+
+**Mobile/Game**:  
+`[React Native]` `[Unity]` `[ARKit]` `[Swift]` `[Kotlin]`  
+
+**Cloud/DevOps**:  
+`[AWS]` `[GCP]` `[Azure]` `[Docker]` `[Kubernetes]` `[Ansible]` `[CI/CD]`  
+
+**Databases**:  
+`[PostgreSQL]` `[MySQL]` `[MongoDB]` `[Redis]` `[SQLite]`  
+
+---
+
+### 🛠️ If My Skills Were Superpowers...
+
+- **React**: Can turn coffee into interactive UIs faster than you can say "componentDidMount".
+- **Node.js**: Summons APIs and microservices from the digital ether.
+- **Unity**: Makes pixels dance and worlds come alive.
+- **Docker/Kubernetes**: Deploys code like a magician pulling rabbits (or containers) out of a hat.
+- **PostgreSQL/MongoDB**: Tames data dragons, relational or not.
+- **CI/CD**: Pushes code to production with the confidence of a cat landing on its feet.
+
+---
+
+---
+
+### 🎲 Fun Facts & Random Power-Ups
+
+| 🎲 | Fun Fact | Power-Up |
+|----|----------|----------|
+| � | Lifelong learner, always exploring new tech trends | +10 Curiosity |
+| 🎨 | Draws, doodles, and creates outside the code realm | +5 Creativity |
+| ⚾ | Plays baseball, swings for the fences IRL | +7 Team Spirit |
+| ☕ | Coffee enthusiast, code runs on caffeine | +∞ Energy |
+| 🦸 | Can debug in the dark (with sunglasses on) | +100 Stealth |
+
+---
+
+### � Signal Me!
+
+> _“Technology is best when it brings people together. Or at least gives them more memes.”_
+
+🛰️ [Send a carrier pigeon](mailto:your.email@example.com) | 🦜 [Or just say hi on LinkedIn!](#)
